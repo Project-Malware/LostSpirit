@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: a2b75a4698ac451e589200a9a44c2c09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5670875011050210677
+    second: highPlatforms2_0
+  - first:
+      213: 1155734170577868020
+    second: highPlatforms2_1
+  - first:
+      213: 2039689183645232657
+    second: highPlatforms2_2
+  - first:
+      213: 8218381619624134420
+    second: highPlatforms2_3
+  - first:
+      213: 264842456543396668
+    second: highPlatforms2_4
+  - first:
+      213: 5347333329938492086
+    second: highPlatforms2_5
+  - first:
+      213: 4857536082539929022
+    second: highPlatforms2_6
+  - first:
+      213: 5419431004676518525
+    second: highPlatforms2_7
+  - first:
+      213: 633775271750899422
+    second: highPlatforms2_8
+  - first:
+      213: -5855196166132530081
+    second: highPlatforms2_9
+  - first:
+      213: -6005723218333138553
+    second: highPlatforms2_10
+  - first:
+      213: -6932982003735603286
+    second: highPlatforms2_11
+  - first:
+      213: -484938745308329623
+    second: highPlatforms2_12
+  - first:
+      213: -8074973262240592022
+    second: highPlatforms2_13
+  - first:
+      213: -552963267497277797
+    second: highPlatforms2_14
+  - first:
+      213: -8509822732230157199
+    second: highPlatforms2_15
+  - first:
+      213: 335178997224706104
+    second: highPlatforms2_16
+  - first:
+      213: -5307880112136664295
+    second: highPlatforms2_17
+  - first:
+      213: 6421964832283848495
+    second: highPlatforms2_18
+  - first:
+      213: 6395167864165606896
+    second: highPlatforms2_19
+  - first:
+      213: -5722599556990679505
+    second: highPlatforms2_20
+  - first:
+      213: -5742639502698186711
+    second: highPlatforms2_21
+  - first:
+      213: -1431311119149516334
+    second: highPlatforms2_22
+  - first:
+      213: 7157148124895846978
+    second: highPlatforms2_23
+  - first:
+      213: -4945106371325994008
+    second: highPlatforms2_24
+  - first:
+      213: 7238841119800520487
+    second: highPlatforms2_25
+  - first:
+      213: -3005596919003071425
+    second: highPlatforms2_26
+  - first:
+      213: -8312654672622281999
+    second: highPlatforms2_27
+  - first:
+      213: 6693298615426043755
+    second: highPlatforms2_28
+  - first:
+      213: -8453395993788963905
+    second: highPlatforms2_29
+  - first:
+      213: -4937478601708728388
+    second: highPlatforms2_30
+  - first:
+      213: 8679786584558105316
+    second: highPlatforms2_31
+  - first:
+      213: 8136382769783787524
+    second: highPlatforms2_32
+  - first:
+      213: 3849947438435393620
+    second: highPlatforms2_33
+  - first:
+      213: 3732825436637999467
+    second: highPlatforms2_34
+  - first:
+      213: -5262963591386000809
+    second: highPlatforms2_35
+  - first:
+      213: -2772094586589865030
+    second: highPlatforms2_36
+  - first:
+      213: -2878781905948552632
+    second: highPlatforms2_37
+  - first:
+      213: -6898815379132081827
+    second: highPlatforms2_38
+  - first:
+      213: -1752833958556749875
+    second: highPlatforms2_39
+  - first:
+      213: -7665420942370795877
+    second: highPlatforms2_40
+  - first:
+      213: 8773372668108867796
+    second: highPlatforms2_41
+  - first:
+      213: -8375205443425095426
+    second: highPlatforms2_42
+  - first:
+      213: 8757977432235105785
+    second: highPlatforms2_43
+  - first:
+      213: 1731125046879905288
+    second: highPlatforms2_44
+  - first:
+      213: 585281601042173411
+    second: highPlatforms2_45
+  - first:
+      213: 6079173968892108466
+    second: highPlatforms2_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: highPlatforms2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a76b819310d41b0800000000000000
+      internalID: -5670875011050210677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 14
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41314da1ef90010800000000000000
+      internalID: 1155734170577868020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e616b718e6e4c10800000000000000
+      internalID: 2039689183645232657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417cb4a4a8e8d0270800000000000000
+      internalID: 8218381619624134420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 14
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3306bf9fc8eca300800000000000000
+      internalID: 264842456543396668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 14
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba279a055b853a40800000000000000
+      internalID: 5347333329938492086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5f6ba45f696340800000000000000
+      internalID: 4857536082539929022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d727b7e09cfa53b40800000000000000
+      internalID: 5419431004676518525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69324704f9bc800800000000000000
+      internalID: 633775271750899422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 14
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54017beb1a2ebea0800000000000000
+      internalID: -5855196166132530081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 14
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78100f77d8267aca0800000000000000
+      internalID: -6005723218333138553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 14
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d921a99919cf90800000000000000
+      internalID: -6932982003735603286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_12
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 14
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c21cc7c62549f0800000000000000
+      internalID: -484938745308329623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 14
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f4f5dd99eefef80800000000000000
+      internalID: -8074973262240592022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_14
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 14
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b964cf286da7358f0800000000000000
+      internalID: -552963267497277797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_15
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 14
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c90efdf4907e980800000000000000
+      internalID: -8509822732230157199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83010c9a58bc6a400800000000000000
+      internalID: 335178997224706104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_17
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 14
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bcbbd092f9656b0800000000000000
+      internalID: -5307880112136664295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_18
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f645c6df66f1950800000000000000
+      internalID: 6421964832283848495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_19
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a5961a4330c850800000000000000
+      internalID: 6395167864165606896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_20
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2643c5c50e3590b0800000000000000
+      internalID: -5722599556990679505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_21
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 14
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9287c805ccb0e40b0800000000000000
+      internalID: -5742639502698186711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_22
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 14
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b60cde16f22ce0800000000000000
+      internalID: -1431311119149516334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_23
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 14
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422545ac4c435360800000000000000
+      internalID: 7157148124895846978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_24
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 14
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebd790a4f37f5bb0800000000000000
+      internalID: -4945106371325994008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_25
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 14
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f633b35a7857460800000000000000
+      internalID: 7238841119800520487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_26
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 14
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c30d8c689f946d0800000000000000
+      internalID: -3005596919003071425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_27
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 14
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa9bd91e9483ac80800000000000000
+      internalID: -8312654672622281999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_28
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 14
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f451cc0af53ec50800000000000000
+      internalID: 6693298615426043755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_29
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 14
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3af74b1218faa80800000000000000
+      internalID: -8453395993788963905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_30
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 14
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0f032f5d8a7bb0800000000000000
+      internalID: -4937478601708728388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_31
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 14
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e279c249ebc47870800000000000000
+      internalID: 8679786584558105316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_32
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 14
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400529d450d3ae070800000000000000
+      internalID: 8136382769783787524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_33
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 14
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450eddf1cc2cd6530800000000000000
+      internalID: 3849947438435393620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_34
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 0
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61b95f05f8adc330800000000000000
+      internalID: 3732825436637999467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_35
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 14
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529f9d7f7236f6b0800000000000000
+      internalID: -5262963591386000809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_36
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 14
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb178229aa8789d0800000000000000
+      internalID: -2772094586589865030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_37
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 14
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8425d16eb138c08d0800000000000000
+      internalID: -2878781905948552632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_38
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 14
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5994d3d6fb7240a0800000000000000
+      internalID: -6898815379132081827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_39
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfabf53dceaca7e0800000000000000
+      internalID: -1752833958556749875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_40
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e062c1444fe9590800000000000000
+      internalID: -7665420942370795877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_41
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 14
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d800c455f741c970800000000000000
+      internalID: 8773372668108867796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_42
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0babfd50b45cb80800000000000000
+      internalID: -8375205443425095426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_43
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 14
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd247a2169a8970800000000000000
+      internalID: 8757977432235105785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_44
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 14
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ee09ee01360810800000000000000
+      internalID: 1731125046879905288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_45
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 14
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc0b3e3865f1800800000000000000
+      internalID: 585281601042173411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highPlatforms2_46
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 2
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be9d9f04809d5450800000000000000
+      internalID: 6079173968892108466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
